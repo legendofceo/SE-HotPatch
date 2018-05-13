@@ -1,9 +1,9 @@
-# SE-OSA-OSex-HotPatch\
+# SE-OSA-OSex-HotPatch
 
 Meant to be a quick way to get changes without having to reinstall all of OSA / OSex. 
 
 
-# 2.02 - 2.03
+# 2.02ALPHA
 
 - Commented out CPConvert 
 
